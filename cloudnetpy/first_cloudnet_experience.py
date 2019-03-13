@@ -16,3 +16,5 @@ input_files = {
 generate_categorize(input_files, path + 'categorize.nc')
 
 generate_class(path + 'categorize.nc', path + 'classification.nc')
+
+### morgen geht es weiter
