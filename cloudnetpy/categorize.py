@@ -527,4 +527,4 @@ def _save_cat(file_name, radar, lidar, model, obs):
 def _merge_source(rootgrp, radar, lidar):
     rootgrp.source = f"radar: {radar.source}\nlidar: {lidar.source}"
 
-### just a test line
+### just a test
